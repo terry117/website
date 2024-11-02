@@ -7,7 +7,7 @@
     "useBackgroundImage": false,
     "backgroundColorLeft": "#5D7DB3",
     "backgroundColorRight": "#5D7DB3",
-    "audioUrl": "http://blog.tanziweichina.com/music/loveyou.mp3",
+    "audioUrl": "https://blog.tanziweichina.com/music/loveyou.mp3",
     "mini": false,
     "webSites":[
         {"name":"gitee" , "url":"https://gitee.com/tanzhiweiwxy/projects"}
